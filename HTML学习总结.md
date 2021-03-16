@@ -611,7 +611,7 @@ HTML 的元素可以称为**区块**或**内联**的方式进行显示：
   &lt;h1&gt;这是个一级标题&lt;/h1&gt;
   &lt;p&gt;这是一个段落&lt;p&gt;
   &lt;a href="https://twitter.com/"&gt;眼见何事，情系何处，身处何方，心思何人&lt;/a&gt;
-<pre>
+</pre>
 
 
 正确结果出现了，你很欣慰，因为这篇笔记终于<mark>结束</mark>了。
